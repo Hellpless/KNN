@@ -42,7 +42,7 @@ Projekt sa vyvíjal cez niekoľko verzií Python skriptov, ktoré demonštrujú 
 * `knn_dummy_data_1000.txt`: Textový súbor obsahujúci 1000 vygenerovaných testovacích dátových vzoriek.
 * `requirements.txt`: Zoznam závislostí projektu (napr. `matplotlib`).
 
-**Hlavný súbor na spustenie aplikácie je pravdepodobne `KNN_GUI_V0.4(FromMyOwn).py`.**
+**Hlavný súbor na spustenie aplikácie je `KNN_GUI_V0.4(FromMyOwn).py`.**
 
 ## Ako Spustiť
 
