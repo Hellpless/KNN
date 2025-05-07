@@ -77,6 +77,6 @@ The project evolved through several Python script versions, demonstrating the pr
 
 ## Based on School Assignment
 
-This project appears to be based on a school assignment, incorporating specific formulas for dimension weighting and distance calculations as discussed and potentially demonstrated in class examples. The "Leave-One-Out" (LOO) classification mode was added to align with exercises where existing data points are classified by their peers.
+This project is based on a school assignment.
 
 ---
