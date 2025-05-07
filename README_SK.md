@@ -76,6 +76,5 @@ Projekt sa vyvíjal cez niekoľko verzií Python skriptov, ktoré demonštrujú 
 
 ## Založené na Školskom Zadaní
 
-Tento projekt sa javí byť založený na školskom zadaní, pričom zahŕňa špecifické vzorce pre váhovanie dimenzií a výpočty vzdialeností, ako boli diskutované a potenciálne demonštrované na hodinách. Režim klasifikácie "Leave-One-Out" (LOO) bol pridaný, aby zodpovedal cvičeniam, kde sa existujúce dátové body klasifikujú pomocou svojich "kolegov".
+Tento projekt je založený na školskom zadaní.
 
----
