@@ -43,7 +43,7 @@ The project evolved through several Python script versions, demonstrating the pr
 * `knn_dummy_data_1000.txt`: A text file containing 1000 generated dummy data samples for testing.
 * `requirements.txt`: Lists project dependencies (e.g., `matplotlib`).
 
-**The main application to run is likely `KNN_GUI_V0.4(FromMyOwn).py`.**
+**The main application to run is `KNN_GUI_V0.4(FromMyOwn).py`.**
 
 ## How to Run
 
